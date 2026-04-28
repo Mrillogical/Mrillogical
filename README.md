@@ -54,6 +54,6 @@ MySQL | PostgreSQL
 ---
 
 ## </> Contact
-Email: kunalsinghyadav2004@gmail.com
+Email: kunalsy24@gmail.com
 LinkedIn: [Kunal Singh Yadav](https://www.linkedin.com/in/kunal-singh-yadav-332063321)
 
