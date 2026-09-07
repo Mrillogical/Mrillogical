@@ -22,11 +22,17 @@
 </p>
 
 **Languages:** Java, Python, JavaScript
+
 **Frontend:** React.js, Next.js, Tailwind CSS
+
 **Backend & Frameworks:** Spring Core, Spring Boot, Spring Security, Spring Data JPA, Hibernate, JDBC, JSP & Servlets, REST APIs, JWT, OAuth2
+
 **Databases:** MySQL, PostgreSQL, MS SQL Server, MongoDB
+
 **Cloud & DevOps:** AWS, Docker, Kubernetes, Kafka, Jenkins, Terraform, Ansible, Linux, Git, Maven
+
 **AI & Agentic Systems:** Spring AI, Agentic AI, Model Context Protocol (MCP)
+
 **CS Fundamentals & Tools:** Microservices, System Design, Data Structures & Algorithms, Computer Networks, JUnit, Postman, log4j
 
 ---
